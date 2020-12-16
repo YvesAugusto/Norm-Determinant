@@ -1,6 +1,6 @@
 # Norm-Determinant
 
-### Compile the code
+### Code compilation
 ![compilar](https://user-images.githubusercontent.com/53539227/102400235-5fe44c00-3fc0-11eb-8e79-7afccf1dc0b8.png)
 ### Calculate norm determinant in C code
 ![c-det](https://user-images.githubusercontent.com/53539227/102400240-61157900-3fc0-11eb-96a6-a2e43e165fb3.png)
