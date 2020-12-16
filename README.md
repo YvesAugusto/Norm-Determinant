@@ -1,5 +1,7 @@
 # Norm-Determinant
-
+This code calculates the following formula
+![detNorm](https://user-images.githubusercontent.com/53539227/102401070-83f45d00-3fc1-11eb-88e9-965c98e95c0d.png)
+![alfa](https://user-images.githubusercontent.com/53539227/102401081-86ef4d80-3fc1-11eb-9189-aa91c851ed38.png)
 ### Code compilation
 ![compilar](https://user-images.githubusercontent.com/53539227/102400235-5fe44c00-3fc0-11eb-8e79-7afccf1dc0b8.png)
 ### Calculate norm determinant in C code
