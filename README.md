@@ -9,3 +9,6 @@ The code will save the generated matrix on a txt file, which wil be read by the 
 
 ### Execute the python command passing the txt file as an argument
 ![python-det](https://user-images.githubusercontent.com/53539227/102400243-6246a600-3fc0-11eb-9e85-67386fbc26ad.png)
+
+### Then it will show the results
+![Captura de tela de 2020-12-16 17-05-14](https://user-images.githubusercontent.com/53539227/102400633-fb75bc80-3fc0-11eb-855a-98e298f8db2c.png)
